@@ -12,7 +12,7 @@ To tackle this challenge, I decided to transform the tabular data into image-lik
 Specifically, I classified each die based on its surrounding dies within a specified radius, enabling me to use a classic binary classification model while maintaining the relationships between neighboring dies.
 
 ![X](X.png) 
-![y](y.png)
+![y](Y.png)
 
 As an example, consider a case where the radius is set to 5. 
 In this scenario, we would examine the area around the middle die (marked in blue as a scratch in the data). 
