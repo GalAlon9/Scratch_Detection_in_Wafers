@@ -1,4 +1,4 @@
-#Scratch Detection Assignment by Gal Alon
+# Scratch Detection Assignment by Gal Alon
 
 To address the problem of scratch detection, I began by developing a wafer-level classification approach to gain a better understanding of the data. 
 Specifically, I used a Random Forest model to conduct a series of experiments, which can be found in "experiments_wafer_level_classification.ipynb". 
